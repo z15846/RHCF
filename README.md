@@ -34,6 +34,7 @@ please pay attention to the version compatibility.
 %   Reinforced Tracker Based on Hierarchical Convolutional Features
 %
 
-The folder RHCF_OTB2013_Mat_results includes the results of RHCF over OTB2013.
+The folder RHCF_OTB2013_Mat_results includes the results of RHCF, RHCF_LM, RHCF_LHC over OTB2013.
+
 
 Follow-up will gradually finish the source code of the tracker, please wait a moment
