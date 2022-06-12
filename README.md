@@ -53,7 +53,9 @@ Extraction code： 1234
 
 # CITE
 If you think these codes can help you find new trackers, please cite the following papers:
+
 [1] ZENG X, ZHANG L, LUO Z, et al. Reinforced Tracker Based on Hierarchical Convolutional Features[J]. IEICE TRANSACTIONS on Information and Systems, 2022, 105(6): 1225-1233.
+
 [2] Zeng X, Zhang L, Luo Z, et al. An Improved Visual Tracking Approach Based on Hierarchical Convolutional Features[C]//2021 IEEE Asia Conference on Information Engineering (ACIE). IEEE, 2021: 42-46.
 
 
